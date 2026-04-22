@@ -1,13 +1,13 @@
 
 <div align="center">
-  <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Full%20Moon.png" alt="Full Moon" width="30" height="30" /> $$\color{#e4ff8c}\Huge\textsf{\textbf{HOW DID YOU FIND ME?}}$$ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Full%20Moon.png" alt="Full Moon" width="30" height="30" /></h1>
+  <h1 align="center"> $$\color{#e4ff8c}\Huge\textsf{\textbf{HOW DID YOU FIND ME?}}$$ </h1>
 <p align="center">
-  <a href="https://x.com/josh1nara">
+  <a href="https://x.com/hanssetsun">
     <img src="https://github.com/joshuanathanjavier/joshuanathanjavier/blob/ae476bd240a10cc775754d113f0cb69eb06adba2/assets/NewJeans_Ditto.gif" alt="Banner">
   </a>
 </p>
 <h3 align="center">$$\color{#969696}\textsf{Hi, My name is Joshi.}$$</h3>
-<h1 align="center">$$\color{#b8f4ff}こんにちは, 私の名前は$$<a href="https://personal-portfolio-indol-beta.vercel.app/">じょし</a>$$\color{#b8f4ff}です!$$</h1>
+<h1 align="center">$$\color{#b8f4ff}こんにちは, 私の名前は$$<a href="https://joshi-dev.vercel.app/">じょし</a>$$\color{#b8f4ff}です!$$</h1>
 <img src="https://github.com/joshuanathanjavier/joshuanathanjavier/blob/ae476bd240a10cc775754d113f0cb69eb06adba2/assets/Hanni.gif" width="25%" align="right" />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="30" height="30" /><p align="center">$$\color{#8cffb1}\textsf{ I LIKE BUILDING THINGS OUT OF MY PASSION.}$$</p>
 <img src="assets/minime.png" width="20%"/>
@@ -34,10 +34,10 @@
 [![](https://img.shields.io/badge/Instagram-E1306C?&style=social&logo=data:image/png;base64,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)](https://www.instagram.com/ymijus)-->
   
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](http://linkedin.com/in/joshuanathanjavier)
-[![X](https://img.shields.io/badge/X/Twitter-%23000000.svg?logo=X&logoColor=white)](https://x.com/josh1nara)
+[![X](https://img.shields.io/badge/X/Twitter-%23000000.svg?logo=X&logoColor=white)](https://x.com/hanssetsun)
 [![](https://komarev.com/ghpvc/?username=joshuanathanjavier&color=6ec93c&style=flat-square&label=Viewers)](https://github.com/joshuanathanjavier)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/joshipham)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ymijus)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hanssetsun)
 <br>
 
 
@@ -48,7 +48,7 @@
   <br>
   <br>
   
-  |<img src="https://github-readme-stats-phi-seven-51.vercel.app/api/top-langs/?username=joshuanathanjavier&layout=compact&title_color=b1f1fc&theme=dark&hide_border=true&hide=php&locale=ja" height="192px">|
+  |<img src="https://github-readme-stats-phi-seven-51.vercel.app/api/top-langs/?username=joshuanathanjavier&layout=compact&title_color=b1f1fc&theme=dark&hide_border=true&hide=php&locale=en" height="192px">|
   |-----|
   
 |![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joshuanathanjavier&theme=dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joshuanathanjavier&theme=dark&exclude=rust)|
@@ -56,13 +56,15 @@
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" />Stats</h1>
 <p>$$\color{#ff8c8c}\textsf{🚨NOT MUCH OF AN ACTIVE PERSON🚨}$$</p>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuanathanjavier&theme=dark" alt="Joshi's Summary Profile Card">
-<img src="https://github-readme-stats-phi-seven-51.vercel.app/api?username=joshuanathanjavier&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Status%20of%20Joshi&title_color=b1f1fc&icon_color=b1f1fc&ring_color=b1f1fc&theme=dark&hide=prs&show=reviews&locale=ja" alt="Joshi's github stats" height="192px">
+<img src="https://github-readme-stats-phi-seven-51.vercel.app/api?username=joshuanathanjavier&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Status%20of%20Joshi&title_color=b1f1fc&icon_color=b1f1fc&ring_color=b1f1fc&theme=dark&hide=prs&show=reviews&locale=en" alt="Joshi's github stats" height="192px">
 <img src="https://github-readme-activity-graph-dusky.vercel.app//graph/?username=joshuanathanjavier&bg_color=1a1a1a&color=b1f1fd&line=b1f1fc&point=FFFFFF&hide_border=true" alt="Joshi's Contribution Graph"/>
-<img src="https://github-readme-streak-stats-silk-nu.vercel.app?user=joshuanathanjavier&theme=dark&hide_border=true&short_numbers=true&locale=ja">
+<img src="https://github-readme-streak-stats-silk-nu.vercel.app?user=joshuanathanjavier&theme=dark&hide_border=true&short_numbers=true&locale=en">
 
 <br>
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page Facing Up" width="30" height="30" />Projects</h1>
 
 [![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=joshuanathanjavier&repo=Sanctuary&title_color=b1f1fc&theme=dark&hide_border=true)](https://github.com/joshuanathanjavier/Sanctuary)
 [![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=joshuanathanjavier&repo=Glair&title_color=b1f1fb&theme=dark&hide_border=true)](https://github.com/joshuanathanjavier/Glair)
+[![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=joshuanathanjavier&repo=Portfolio&title_color=b1f1fb&theme=dark&hide_border=true)](https://github.com/joshuanathanjavier/Portfolio)
+
 
