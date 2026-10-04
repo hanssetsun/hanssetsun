@@ -3,12 +3,12 @@
   <h1 align="center"> $$\color{#e4ff8c}\Huge\textsf{\textbf{HOW DID YOU FIND ME?}}$$ </h1>
 <p align="center">
   <a href="https://x.com/hanssetsun">
-    <img src="https://github.com/joshuanathanjavier/joshuanathanjavier/blob/ae476bd240a10cc775754d113f0cb69eb06adba2/assets/NewJeans_Ditto.gif" alt="Banner">
+    <img src="https://github.com/hanssetsun/hanssetsun/blob/ae476bd240a10cc775754d113f0cb69eb06adba2/assets/NewJeans_Ditto.gif" alt="Banner">
   </a>
 </p>
 <h3 align="center">$$\color{#969696}\textsf{Hi, My name is Joshi.}$$</h3>
 <h1 align="center">$$\color{#b8f4ff}こんにちは, 私の名前は$$<a href="https://joshi-dev.vercel.app/">じょし</a>$$\color{#b8f4ff}です!$$</h1>
-<img src="https://github.com/joshuanathanjavier/joshuanathanjavier/blob/ae476bd240a10cc775754d113f0cb69eb06adba2/assets/Hanni.gif" width="25%" align="right" />
+<img src="https://github.com/hanssetsun/hanssetsun/blob/ae476bd240a10cc775754d113f0cb69eb06adba2/assets/Hanni.gif" width="25%" align="right" />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="30" height="30" /><p align="center">$$\color{#8cffb1}\textsf{ I LIKE BUILDING THINGS OUT OF MY PASSION.}$$</p>
 <img src="assets/minime.png" width="20%"/>
 <br>
@@ -35,7 +35,7 @@
   
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](http://linkedin.com/in/joshuanathanjavier)
 [![X](https://img.shields.io/badge/X/Twitter-%23000000.svg?logo=X&logoColor=white)](https://x.com/hanssetsun)
-[![](https://komarev.com/ghpvc/?username=joshuanathanjavier&color=6ec93c&style=flat-square&label=Viewers)](https://github.com/joshuanathanjavier)
+[![](https://komarev.com/ghpvc/?username=hanssetsun&color=6ec93c&style=flat-square&label=Viewers)](https://github.com/joshuanathanjavier)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/joshipham)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hanssetsun)
 <br>
@@ -55,16 +55,16 @@
 |-----|------|
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" />Stats</h1>
 <p>$$\color{#ff8c8c}\textsf{🚨NOT MUCH OF AN ACTIVE PERSON🚨}$$</p>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuanathanjavier&theme=dark" alt="Joshi's Summary Profile Card">
-<img src="https://github-readme-stats-phi-seven-51.vercel.app/api?username=joshuanathanjavier&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Status%20of%20Joshi&title_color=b1f1fc&icon_color=b1f1fc&ring_color=b1f1fc&theme=dark&hide=prs&show=reviews&locale=en" alt="Joshi's github stats" height="192px">
-<img src="https://github-readme-activity-graph-dusky.vercel.app//graph/?username=joshuanathanjavier&bg_color=1a1a1a&color=b1f1fd&line=b1f1fc&point=FFFFFF&hide_border=true" alt="Joshi's Contribution Graph"/>
-<img src="https://github-readme-streak-stats-silk-nu.vercel.app?user=joshuanathanjavier&theme=dark&hide_border=true&short_numbers=true&locale=en">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanssetsun&theme=dark" alt="Joshi's Summary Profile Card">
+<img src="https://github-readme-stats-phi-seven-51.vercel.app/api?username=hanssetsun&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Status%20of%20Joshi&title_color=b1f1fc&icon_color=b1f1fc&ring_color=b1f1fc&theme=dark&hide=prs&show=reviews&locale=en" alt="Joshi's github stats" height="192px">
+<img src="https://github-readme-activity-graph-dusky.vercel.app//graph/?username=hanssetsun&bg_color=1a1a1a&color=b1f1fd&line=b1f1fc&point=FFFFFF&hide_border=true" alt="Joshi's Contribution Graph"/>
+<img src="https://github-readme-streak-stats-silk-nu.vercel.app?user=hanssetsun&theme=dark&hide_border=true&short_numbers=true&locale=en">
 
 <br>
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page Facing Up" width="30" height="30" />Projects</h1>
 
-[![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=joshuanathanjavier&repo=Sanctuary&title_color=b1f1fc&theme=dark&hide_border=true)](https://github.com/joshuanathanjavier/Sanctuary)
-[![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=joshuanathanjavier&repo=Glair&title_color=b1f1fb&theme=dark&hide_border=true)](https://github.com/joshuanathanjavier/Glair)
-[![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=joshuanathanjavier&repo=Portfolio&title_color=b1f1fb&theme=dark&hide_border=true)](https://github.com/joshuanathanjavier/Portfolio)
+[![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=hanssetsun&repo=Sanctuary&title_color=b1f1fc&theme=dark&hide_border=true)](https://github.com/joshuanathanjavier/Sanctuary)
+[![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=hanssetsun&repo=Glair&title_color=b1f1fb&theme=dark&hide_border=true)](https://github.com/joshuanathanjavier/Glair)
+[![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=hanssetsun&repo=Portfolio&title_color=b1f1fb&theme=dark&hide_border=true)](https://github.com/joshuanathanjavier/Portfolio)
 
 
