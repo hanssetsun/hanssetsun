@@ -63,8 +63,8 @@
 <br>
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page Facing Up" width="30" height="30" />Projects</h1>
 
-[![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=hanssetsun&repo=Sanctuary&title_color=b1f1fc&theme=dark&hide_border=true)](https://github.com/joshuanathanjavier/Sanctuary)
-[![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=hanssetsun&repo=Glair&title_color=b1f1fb&theme=dark&hide_border=true)](https://github.com/joshuanathanjavier/Glair)
-[![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=hanssetsun&repo=Portfolio&title_color=b1f1fb&theme=dark&hide_border=true)](https://github.com/joshuanathanjavier/Portfolio)
+[![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=hanssetsun&repo=Sanctuary&title_color=b1f1fc&theme=dark&hide_border=true)](https://github.com/hanssetsun/Sanctuary)
+[![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=hanssetsun&repo=Glair&title_color=b1f1fb&theme=dark&hide_border=true)](https://github.com/hanssetsun/Glair)
+[![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=hanssetsun&repo=Portfolio&title_color=b1f1fb&theme=dark&hide_border=true)](https://github.com/hanssetsun/Portfolio)
 
 
